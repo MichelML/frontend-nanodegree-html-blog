@@ -1,0 +1,39 @@
+Hi guys!
+
+I hope the index.html will meet all the specifications! Here are my reflections on the project:
+
+You've learned a lot about web development so far. I want you to take a moment to write down your 
+thoughts about web development here. 
+
+Answer the following questions:
+
+* What new skills have you learned?
+  
+I had about one year of experience writing HTML prior to this project, so it was kind of easy. However, 
+I learned to use the sup element for proper referencing.
+
+I also learned about the time element, but I am not sure I have used it appropriately.
+
+
+* What has been easy?
+  
+Pretty much everything. Took me about 15 minutes.
+
+
+* What has been difficult?
+  
+Nothing really.
+
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I did not have used the problem solving strategies for this project. But I have used them for others, 
+and will talk about it in future projects.
+
+
+
+If you have additional questions, please let me know.
+
+Thanks in advance for reviewing this project,
+
+Michel
